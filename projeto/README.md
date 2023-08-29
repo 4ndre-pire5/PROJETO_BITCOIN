@@ -18,6 +18,8 @@ Projeto disciplina DataEngineering & DataScience.
 
 - O segundo gráfico criado é do tipo "candlestick", muito utilizado em sistemas financeiros. Esse gráfico vai gerar informações dos últimos 30 dias dos valores (valor de abertura, fechamento, maior e menor valor) do BITCOIN. A extração desses dados também foi feita com auxílio do "pandas" e para gerar o gráfico foi utilizada a ferramenta "mplfinace".
 
+- Dentro da pasta "DEPLOY", existe um arquivo nomeado "main.exe" que é um executável do projeto.
+
 - O desenvolvimento da aplicação exigiu um grande trabalho de pesquisa para encontar a API ideal para obtenção dos dados, conhecer melhor a linguagem PYTHON, o MySQL,  e como utilizar as ferramentas que auxiliaram na criação dos dataframes e dos gráficos.
 
 - A aplicação oferece uma grande ajuda para entusiastas do mercado de cripto moedas, profissionais do mercado e até mesmo empresas, que desejam obter informações variadas sobre a cripto moeda desejada.
