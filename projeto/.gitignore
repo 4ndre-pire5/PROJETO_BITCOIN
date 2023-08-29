@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 candledata.json
 savedata.json
+share/
